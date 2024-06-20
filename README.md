@@ -1,5 +1,4 @@
-<h1>LicenseBot<h1>
-
+#LicenseBot
 A chatbot that assists international students in Maryland to obtaining their driver’s licenses.
 This repository consists of an academic paper.
 
